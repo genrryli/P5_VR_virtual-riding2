@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/_Scene/MAP_PINK_DREAM.unity
+  isLoaded: 1
+  isActive: 1
