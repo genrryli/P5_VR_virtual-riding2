@@ -141,10 +141,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Poly2Tri">
- <HintPath>C:/Users/GENRRY/Desktop/P5_VR_virtual riding2/Assets/Packages/Curvy/Base/ThirdParty/Poly2Tri.dll</HintPath>
+ <HintPath>C:/Users/GENRRY/Documents/_unity/P5_VR_virtual riding2/Assets/Packages/Curvy/Base/ThirdParty/Poly2Tri.dll</HintPath>
  </Reference>
  <Reference Include="DevTools">
- <HintPath>C:/Users/GENRRY/Desktop/P5_VR_virtual riding2/Assets/Packages/DevTools/DevTools.dll</HintPath>
+ <HintPath>C:/Users/GENRRY/Documents/_unity/P5_VR_virtual riding2/Assets/Packages/DevTools/DevTools.dll</HintPath>
  </Reference>
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />

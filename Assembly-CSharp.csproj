@@ -421,7 +421,7 @@
      <None Include="Assets\Import\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlurAndFlares.shader" />
      <None Include="Assets\Import\NatureStarterKit2\Standard Assets\Effects\ImageEffects\Shaders\_BloomAndFlares\BlendForBloom.shader" />
  <Reference Include="Assembly-UnityScript-firstpass">
- <HintPath>C:/Users/GENRRY/Desktop/P5_VR_virtual riding2/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
+ <HintPath>C:/Users/GENRRY/Documents/_unity/P5_VR_virtual riding2/Library/ScriptAssemblies/Assembly-UnityScript-firstpass.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.UI">
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
@@ -430,10 +430,10 @@
  <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
  <Reference Include="Poly2Tri">
- <HintPath>C:/Users/GENRRY/Desktop/P5_VR_virtual riding2/Assets/Packages/Curvy/Base/ThirdParty/Poly2Tri.dll</HintPath>
+ <HintPath>C:/Users/GENRRY/Documents/_unity/P5_VR_virtual riding2/Assets/Packages/Curvy/Base/ThirdParty/Poly2Tri.dll</HintPath>
  </Reference>
  <Reference Include="DevTools">
- <HintPath>C:/Users/GENRRY/Desktop/P5_VR_virtual riding2/Assets/Packages/DevTools/DevTools.dll</HintPath>
+ <HintPath>C:/Users/GENRRY/Documents/_unity/P5_VR_virtual riding2/Assets/Packages/DevTools/DevTools.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
